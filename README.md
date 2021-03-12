@@ -1,12 +1,7 @@
 ## Packages
-This data science has several machine learning projects with the most important ones can be classified as follows:
-- 1st is about predicting whether if a customer of bank will exit it or not based Credit Score, Number of Products used and several other variables. This project use RandomForest regression to predict on a test dataset.Therefore it is in the Random Forest folder
-- 2nd uses a Random Forest to detect anomalies or fradulent transactions in a credit card dataset. Therefore it is in the Random Forest folder
-- 3rd one is a Google stock price predictive model. The model will try to predict the highest price for the next 20 days of the stock after training.
-- 4th use Monte Carlo simulations to calculate the value at risk(vaR) if you buy 1 Apple share for a 7 trading days period
-- 5th, 6th and 7th involve Lasso Regression, Linear regression and Tree classifier
-- 8th one is the code of a facebook bot that login in automatically into an account. But this code can be adapted transform into a tweeter or instagram bot.
-
+This contains Custom made packages in:
+- R
+- Python
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
